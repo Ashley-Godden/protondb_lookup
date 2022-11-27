@@ -10,7 +10,7 @@ I am very new to Rust so please go easy on me and feel free to tell me if I have
 - [ ] MacOS (Not Tested)
 
 ## Releases
-- Releases can be found [here](https://github.com/crashbashash/protondb_lookup/releases)
+- Releases can be found [here](https://github.com/Ashley-Godden/protondb_lookup/releases)
 
 ## How to use
 - Build the project using cargo
