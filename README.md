@@ -3,6 +3,7 @@
 ## Project Info
 This project is focused on creating a simple way to query ProtonDB for information regarding steam games. Thus saving you time in having to load up a web browser to find this information.
 I am very new to Rust so please go easy on me and feel free to tell me if I have made any mistakes or how I could improve this code.
+For more information please watch this [youtube video](https://www.youtube.com/watch?v=_5HxnuyKkK)
 
 ## Compatability
 - [X] Linux
